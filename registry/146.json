@@ -1065,5 +1065,21 @@
     "symbol": "WEETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396"
+  },
+  {
+    "chainId": 146,
+    "address": "0xf520d737dc03e0dfb81350c6fd27479dd75db88d",
+    "name": "Liquid Sonic Drop",
+    "symbol": "LSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992"
+  },
+  {
+    "chainId": 146,
+    "address": "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
   }
 ]

@@ -22279,5 +22279,167 @@
     "symbol": "YALA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x08df470d41c11ba5cb60242747d76c65ca52c94c",
+    "name": "Cypher Tempre",
+    "symbol": "CPHY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69500/thumb/0H2JhgEp_400x400_%281%29.jpg?1758778223"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7aafd31a321d3627b30a8e2171264b56852187fe",
+    "name": "Mira Network",
+    "symbol": "MIRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69491/thumb/mira_logo_200x200.png?1758751854"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x449b3317a6d1efb1bc3ba0700c9eaa4ffff4ae65",
+    "name": "Australian Digital Dollar",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/33263/thumb/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xef4461891dfb3ac8572ccf7c794664a8dd927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x833f973406E07830d494cBe5FaBBc3AE9c750c1F",
+    "name": "IncomRWA",
+    "symbol": "iRWA",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/iRWA/logo.svg",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "iRWA"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF732A566121Fa6362E9E0FBdd6D66E5c8C925E49",
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+    "extensions": {
+      "baseBridgeAddress": "0x4200000000000000000000000000000000000010",
+      "opListId": "extended",
+      "opTokenId": "LITKEY"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x111123ea4cee28cf010703593a8a2a3bbb91756c",
+    "name": "ARA",
+    "symbol": "ARA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69531/thumb/500_2.png?1758906061"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88a7fb82815348b40694c7dc1041cc95868b8314",
+    "name": "Degen Express",
+    "symbol": "DEGEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69517/thumb/v1d8frkbqu1srrfpucmxiaawz3dq.?1758829466"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa88a1ed0bac18727a615299ce5f557b8220a33d7",
+    "name": "CROTCH",
+    "symbol": "CROTCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+    "name": "River",
+    "symbol": "RIVER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69318/thumb/river-token.png?1758523089"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2e6c05f1f7d1f4eb9a088bf12257f1647682b754",
+    "name": "Regen",
+    "symbol": "REGEN",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x845f4fbf04d03958be38ff91e43dfb5d40dd8241",
+    "name": "GoChain",
+    "symbol": "GO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3286/thumb/GoChain.png?1696503996"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x78de5c914b91ee1a1defd2c617f759e74a896b07",
+    "name": "Base Strategy",
+    "symbol": "BASTR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69574/thumb/9ybuv783xckyexh76n4lpf135qa4.?1759059338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x492ae2107f952b02f2554ce153841933c09d6d43",
+    "name": "BiomeAI",
+    "symbol": "BIOMEAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69598/thumb/logo.png?1759206285"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x76a9a0062ec6712b99b4f63bd2b4270185759dd5",
+    "name": "Parallel USDp",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69613/thumb/usdp.png?1759221769"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x729f75aff28c726e32403e80cef2afb518cfbfa7",
+    "name": "Wrapped Aave Base EURC",
+    "symbol": "WABASEURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69614/thumb/wabaseurc.png?1759222065"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358",
+    "name": "zkVerify",
+    "symbol": "VFY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69223/thumb/download.png?1758953448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9c4315eb7ba91b7bdc1727ad5f76ea4ac8875506",
+    "name": "Gooner",
+    "symbol": "GONNER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69611/thumb/image-2025-09-27-104749.png?1759220364"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+    "name": "Stables Labs Staked USDX",
+    "symbol": "SUSDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50836/thumb/sUSDX200px.png?1731906119"
   }
 ]
